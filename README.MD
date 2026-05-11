@@ -361,53 +361,8 @@ already use it in another harness.
 
 Read [the original release announcement](https://blog.fsck.com/2025/10/09/superpowers/).
 
-## Contributing
-
-The general contribution process for Superpowers is below. Keep in mind that we don't generally accept contributions of new skills and that any updates to skills must work across all of the coding agents we support.
-
-1. Fork the repository
-2. Switch to the 'dev' branch
-3. Create a branch for your work
-4. Follow the `writing-skills` skill for creating and testing new and modified skills
-5. Submit a PR, being sure to fill in the pull request template.
-
-See `skills/writing-skills/SKILL.md` for the complete guide.
-
 
 ## Start Here
-
-
-### Fastest Path
-
-Download the starter pack here:
-
-**[`pm-skills-starter-pack.zip`](https://github.com/deanpeters/Product-Manager-Skills/releases/latest/download/pm-skills-starter-pack.zip)**
-
-Unzip it. Inside, you will see individual skill ZIPs.
-
-Upload those individual ZIPs to Claude Skills.
-
-Ask:
-
-```text
-Use the Product Manager Skills to help me frame this product problem.
-```
-
-### Download ZIPs
-
-All downloadable ZIPs live on the GitHub Releases page:
-
-**[Open Product Manager Skills Releases](https://github.com/deanpeters/Product-Manager-Skills/releases/latest)**
-
-Common downloads:
-
-- Claude starter pack: [`pm-skills-starter-pack.zip`](https://github.com/deanpeters/Product-Manager-Skills/releases/latest/download/pm-skills-starter-pack.zip) - unzip this, then upload the skill ZIPs inside to Claude
-- Claude discovery pack: [`02-discovery-pack.zip`](https://github.com/deanpeters/Product-Manager-Skills/releases/latest/download/02-discovery-pack.zip) - unzip this, then upload the skill ZIPs inside to Claude
-- Claude strategy pack: [`03-strategy-pack.zip`](https://github.com/deanpeters/Product-Manager-Skills/releases/latest/download/03-strategy-pack.zip) - unzip this, then upload the skill ZIPs inside to Claude
-- Claude delivery pack: [`04-delivery-pack.zip`](https://github.com/deanpeters/Product-Manager-Skills/releases/latest/download/04-delivery-pack.zip) - unzip this, then upload the skill ZIPs inside to Claude
-- Claude AI PM pack: [`05-ai-pm-pack.zip`](https://github.com/deanpeters/Product-Manager-Skills/releases/latest/download/05-ai-pm-pack.zip) - unzip this, then upload the skill ZIPs inside to Claude
-- Claude all-skills pack: [`99-all-skills-pack.zip`](https://github.com/deanpeters/Product-Manager-Skills/releases/latest/download/99-all-skills-pack.zip) - unzip this, then upload the skill ZIPs inside to Claude
-- Codex package: [`pm-skills-codex.zip`](https://github.com/deanpeters/Product-Manager-Skills/releases/latest/download/pm-skills-codex.zip)
 
 ### Install Guides
 
@@ -449,7 +404,6 @@ I want to apologize  to a contributor who recently submitted a well-intentioned 
 
 What changed in v0.75:
 - `README.md` — Mission statement updated to name both audiences: human PMs and AI agents
-- `CONTRIBUTING.md` — New Design Philosophy section so contributors know what they're protecting
 - `CLAUDE.md` — Pedagogic-first added to the agent's mandate, not just the style guide
 - `AGENTS.md` — New Operating Philosophy section so coding agents don't optimize away the teaching
 
@@ -1112,18 +1066,6 @@ Related skills and external frameworks.
 
 ---
 
-## 🤝 Contributing
-
-Found a gap? Have a PM framework you'd like to see included?
-
-**Ways to contribute:**
-- Open an issue with your suggestion
-- Submit a pull request (we'll help you format it)
-- Share feedback on what's working or missing
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
-
----
 
 ## 🎓 Philosophy
 

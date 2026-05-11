@@ -15,3 +15,12 @@
 
 # Internal project instructions (not for public repo)
 CLAUDE.md
+
+
+.worktrees/
+.private-journal/
+.claude/
+.DS_Store
+node_modules/
+inspo
+triage/
