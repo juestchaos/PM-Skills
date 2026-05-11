@@ -1,6 +1,26 @@
-<div align="center">
+╔════════════════════════════════════════════════════════════════════╗
+║                                                                    ║
+║   ██████╗ ███╗   ███╗    ███████╗██╗  ██╗██╗██╗     ██╗     ███████╗
+║   ██╔══██╗████╗ ████║    ██╔════╝██║ ██╔╝██║██║     ██║     ██╔════╝
+║   ██████╔╝██╔████╔██║    ███████╗█████╔╝ ██║██║     ██║     ███████╗
+║   ██╔═══╝ ██║╚██╔╝██║    ╚════██║██╔═██╗ ██║██║     ██║     ╚════██║
+║   ██║     ██║ ╚═╝ ██║    ███████║██║  ██╗██║███████╗███████╗███████║
+║   ╚═╝     ╚═╝     ╚═╝    ╚══════╝╚═╝  ╚═╝╚═╝╚══════╝╚══════╝╚══════╝
+║                                                                    ║
+║   47 battle-tested skills + 6 command workflows                    ║
+║   Claude Code • Cursor • Codex  • n8n • OpenClaw • and more ...    ║
+║                                                                    ║
+║   v0.78 • Apr 26, 2026 • CC BY-NC-SA 4.0                            ║
+╚════════════════════════════════════════════════════════════════════╝
+```
 
-**中文**
+**Help product managers become more awesome at their craft — and help them send the ladder down to others.**
+
+Battle-tested PM frameworks that teach both you and your AI agents how to do product management work at a professional level. You learn the *why*. Your agents execute the *how*. Everyone gets better.
+
+Frame problems, hunt opportunities, scaffold validation experiments, and kill bad bets fast. With frameworks from Teresa Torres, Geoffrey Moore, Amazon, MITRE, and much more from product management's greatest hits.
+
+---
 
 # 🧰 PM Skills
 
@@ -354,41 +374,8 @@ The general contribution process for Superpowers is below. Keep in mind that we 
 See `skills/writing-skills/SKILL.md` for the complete guide.
 
 
-
-╔════════════════════════════════════════════════════════════════════╗
-║                                                                    ║
-║   ██████╗ ███╗   ███╗    ███████╗██╗  ██╗██╗██╗     ██╗     ███████╗
-║   ██╔══██╗████╗ ████║    ██╔════╝██║ ██╔╝██║██║     ██║     ██╔════╝
-║   ██████╔╝██╔████╔██║    ███████╗█████╔╝ ██║██║     ██║     ███████╗
-║   ██╔═══╝ ██║╚██╔╝██║    ╚════██║██╔═██╗ ██║██║     ██║     ╚════██║
-║   ██║     ██║ ╚═╝ ██║    ███████║██║  ██╗██║███████╗███████╗███████║
-║   ╚═╝     ╚═╝     ╚═╝    ╚══════╝╚═╝  ╚═╝╚═╝╚══════╝╚══════╝╚══════╝
-║                                                                    ║
-║   47 battle-tested skills + 6 command workflows                    ║
-║   Claude Code • Cursor • Codex  • n8n • OpenClaw • and more ...    ║
-║                                                                    ║
-║   v0.78 • Apr 26, 2026 • CC BY-NC-SA 4.0                            ║
-╚════════════════════════════════════════════════════════════════════╝
-```
-
-**Help product managers become more awesome at their craft — and help them send the ladder down to others.**
-
-Battle-tested PM frameworks that teach both you and your AI agents how to do product management work at a professional level. You learn the *why*. Your agents execute the *how*. Everyone gets better.
-
-Frame problems, hunt opportunities, scaffold validation experiments, and kill bad bets fast. With frameworks from Teresa Torres, Geoffrey Moore, Amazon, MITRE, and much more from product management's greatest hits.
-
----
-
 ## Start Here
 
-Choose your setup:
-
-| I use... | Download/use this | Best for |
-|---|---|---|
-| Claude Desktop / Claude Web | [`pm-skills-starter-pack.zip`](https://github.com/deanpeters/Product-Manager-Skills/releases/latest/download/pm-skills-starter-pack.zip) | Nontechnical PMs |
-| Claude Code | Plugin marketplace | Terminal users |
-| Codex | [`pm-skills-codex.zip`](https://github.com/deanpeters/Product-Manager-Skills/releases/latest/download/pm-skills-codex.zip) or repo clone | Codex CLI/app users |
-| I am not sure | [`pm-skills-starter-pack.zip`](https://github.com/deanpeters/Product-Manager-Skills/releases/latest/download/pm-skills-starter-pack.zip) | Most people |
 
 ### Fastest Path
 
