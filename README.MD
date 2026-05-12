@@ -12,7 +12,7 @@
 ║                                                                    ║
 ║   v0.78 • Apr 26, 2026 • CC BY-NC-SA 4.0                            ║
 ╚════════════════════════════════════════════════════════════════════╝
-```
+
 
 **Help product managers become more awesome at their craft — and help them send the ladder down to others.**
 
