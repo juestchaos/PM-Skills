@@ -14,6 +14,7 @@
 ╚════════════════════════════════════════════════════════════════════╝
 
 
+
 **Help product managers become more awesome at their craft — and help them send the ladder down to others.**
 
 Battle-tested PM frameworks that teach both you and your AI agents how to do product management work at a professional level. You learn the *why*. Your agents execute the *how*. Everyone gets better.
