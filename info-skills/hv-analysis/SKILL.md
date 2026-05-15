@@ -212,7 +212,7 @@ prompt要描述目标（"获取""调研""了解"），不要用暗示具体手�
 2. **安装依赖**（如未安装）：`pip install weasyprint markdown --break-system-packages`
 3. **运行转换脚本**：
    ```bash
-   python [skill目录]/scripts/md_to_pdf.py input.md output.pdf --title "研究对象名称" --author "数字生命卡兹克"
+   python [skill目录]/scripts/md_to_pdf.py input.md output.pdf --title "研究对象名称"
    ```
 4. 脚本会自动生成中间HTML文件（便于调试）和最终PDF
 

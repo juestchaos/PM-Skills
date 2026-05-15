@@ -202,7 +202,7 @@ a {
 
 
 def md_to_html(md_text, title="横纵分析报告", subtitle="横纵分析法深度研究报告",
-               meta_line="", author="数字生命卡兹克"):
+               meta_line=""):
     """将 Markdown 转为带封面的 HTML"""
 
     # 用 markdown 库转换正文
