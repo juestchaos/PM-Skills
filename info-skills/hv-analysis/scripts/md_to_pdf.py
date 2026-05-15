@@ -254,7 +254,7 @@ def main():
     parser.add_argument("input", help="输入的 Markdown 文件路径")
     parser.add_argument("output", help="输出的 PDF 文件路径")
     parser.add_argument("--title", default=None, help="报告标题")
-    parser.add_argument("--author", default="数字生命卡兹克", help="作者名")
+    parser.add_argument("--author", default="高胖胖", help="作者名")
     args = parser.parse_args()
 
     with open(args.input, "r", encoding="utf-8") as f:
